@@ -5,7 +5,13 @@ This repository contains my solutions to DAA problems.
 ### SP (Syllabus Programs)
 |                                      |
 |--------------------------------------|
-| [SP1-fibonacci-series](SP1) |
+| [SP1](SP1) |
+| [SP2](SP2) |
+| [SP3](SP3) |
+| [SP4](SP4) |
+| [SP5](SP5) |
+| [SP6](SP6) |
+| [SP7](SP7) |
 
 
 ### AP (Additional Programs)
